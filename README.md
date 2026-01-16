@@ -2,7 +2,7 @@
 
 ## 🚀 Live Test Report
 You can view the latest execution results and historical trends on our live dashboard:
-👉 **[View Cucumber HTML Report](https://bastheboss7.github.io/WebBrowserAutomation_BDD_Framework/)**
+👉 **[View Cucumber HTML Report](https://bastheboss7.github.io/bdd-java21-selenium-cucumber-testng/)**
 
 # Web Browser Automation BDD Framework
 
