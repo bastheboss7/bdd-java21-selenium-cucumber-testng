@@ -1,4 +1,4 @@
-[![BDD Test Automation](https://github.com/bastheboss7/WebBrowserAutomation_BDD_Framework/actions/workflows/evri-ui-test.yml/badge.svg)](https://bastheboss7.github.io/WebBrowserAutomation_BDD_Framework/)
+[![BDD Test Automation](https://github.com/bastheboss7/bdd-java21-selenium-cucumber-testng/actions/workflows/evri-ui-test.yml/badge.svg)](https://bastheboss7.github.io/bdd-java21-selenium-cucumber-testng/)
 
 ## 🚀 Live Test Report
 You can view the latest execution results and historical trends on our live dashboard:
